@@ -1,8 +1,10 @@
 # python_minimal
 
-This directoriy contains Python codes that ought to fulfill the following requirements:
+All codes contained in this directory are to be understood as executable art installations.
 
-1) They shall rely on a maximum of 30 lines of code (hence the name: 'minimal').
+In order to be promoted to the new status, codes ought to fulfill the following requirements:
+
+1) They shall rely on a maximum of 30 lines of text (hence the name: 'minimal').
 2) They shall not have any practical use.
-3) They shall amuse and/or confuse the user to a degree.
-4) If not any user, they shall amuse Ida at least :)
+3) They shall amuse the user to a lower extent.
+4) They shall confuse the user to an even higher extent.
