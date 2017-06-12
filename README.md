@@ -5,4 +5,4 @@ This directoriy contains Python codes that ought to fulfill the following requir
 1) They shall rely on a maximum of 30 lines of code (hence the name: 'minimal').
 2) They shall not have any practical use.
 3) They shall amuse and/or confuse the user to a degree.
-4) If not any user, they will amuse Ida at least :)
+4) If not any user, they shall amuse Ida at least :)
