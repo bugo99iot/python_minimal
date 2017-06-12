@@ -8,4 +8,4 @@ In order to be promoted to the new status, codes:
 2) Shall not have any practical use.
 3) Shall facilitate exhistential awakening and/or confuse the user to the point of laughter.
 
-All contributions are well welcome.
+All external contributions are well welcome.
