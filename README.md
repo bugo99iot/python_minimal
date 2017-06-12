@@ -1,6 +1,6 @@
 # python_minimal
 
-All codes contained in this directory are to be understood as executable art installations.
+All codes in this directory are to be understood as executable art installations.
 
 In order to be promoted to the new status, codes:
 
