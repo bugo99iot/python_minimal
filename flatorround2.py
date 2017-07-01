@@ -1,6 +1,6 @@
 import time, threading
 
-fr = raw_input("What do you think? I the world flat or round? Write your answer here: ").lower()
+fr = raw_input("What do you think? Is the world flat or round? Write your answer here: ").lower()
 
 def repeatf():
     print "The world is flat!"
