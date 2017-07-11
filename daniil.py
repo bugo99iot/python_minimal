@@ -1,7 +1,7 @@
 #This is a code inspired by the short story 'Pushkin and Gogol', by Daniil Kharms
 #If you like to read the whole story:http://absurdist.obook.org/kharms/display.php?p=37
 #Daniil Kharms was a Soviet-era surrealist and absurdist short story writer and essayist
-#If you like to know more about him: http://russiapedia.rt.com/prominent-russians/literature/daniil-kharms/
+#If you like to know more about him: http://www.newyorker.com/magazine/2007/08/06/so-it-is-in-life
 
 from random import randint
 import time, threading
