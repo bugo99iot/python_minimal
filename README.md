@@ -14,6 +14,6 @@ A 'python-minimal' code shall:
 External contributions are well welcome.
 
 
-# Code Quality
+# code quality
 
 Not great, thank you.
