@@ -9,7 +9,7 @@ A 'python-minimal' code shall:
 3) Facilitate exhistential awakening/confuse the user.
 
 
-# collaboration
+# contributions
 
 External contributions are well welcome.
 
