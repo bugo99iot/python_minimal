@@ -10,6 +10,7 @@ In order to be promoted to the new status, codes:
 
 External contributions are well welcome.
 
-# CODE QUALITY
+
+# Code Quality
 
 Not great, thank you.
