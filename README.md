@@ -17,11 +17,6 @@ External contributions are well welcome.
 You may not fully understand some of the codes unless you love daschund dogs OR you are my girlfriend.
 Or both.
 
-
-# Quality of the Code
-Not great, thank you :)
-
-
 # License
 Released under version 2.0 of the [Apache License].
 
