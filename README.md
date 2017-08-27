@@ -7,9 +7,15 @@ A Code, to be considered Python-Minimal, shall:
 2) Avoid any practical usage.
 3) Facilitate exhistential awakening/confuse the user.
 
+# Example
+Add...
 
 # Contributions
 External contributions are well welcome.
+
+# Disclaimer
+You may not fully understand some of the codes unless you love daschund dogs OR you are my girlfriend.
+Or both.
 
 
 # Code Quality
