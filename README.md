@@ -18,7 +18,7 @@ You may not fully understand some of the codes unless you love daschund dogs OR 
 Or both.
 
 
-# Code Quality
+# Quality of the Code
 Not great, thank you :)
 
 
