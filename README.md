@@ -1,4 +1,4 @@
-# python_minimal
+# Python Minimal
 
 All codes in this directory are conceived as executable art installations.
 
@@ -9,11 +9,16 @@ A 'python-minimal' code shall:
 3) Facilitate exhistential awakening/confuse the user.
 
 
-# contributions
+# Contributions
 
 External contributions are well welcome.
 
 
-# code quality
+# Code Quality
 
-Not great, thank you.
+Not great, thank you :)
+
+
+# License
+
+Released under version 2.0 of the Apache License.
