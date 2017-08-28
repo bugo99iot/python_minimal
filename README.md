@@ -7,9 +7,6 @@ A Code, to be considered Python-Minimal, shall:
 2) Avoid any practical usage.
 3) Facilitate existential awakening/confuse the user.
 
-# Example
-Add...
-
 # Contributions
 External contributions are well welcome.
 
@@ -17,7 +14,11 @@ External contributions are well welcome.
 You may not fully understand some of the codes unless you love daschund dogs OR you are my girlfriend.
 Or both.
 
+# Blog
+I talked about this project on [Medium].
+
 # License
 Released under version 2.0 of the [Apache License].
 
 [Apache license]: http://www.apache.org/licenses/LICENSE-2.0
+[Medium]: https://medium.com/@ugo.bertello
