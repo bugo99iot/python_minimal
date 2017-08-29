@@ -3,7 +3,7 @@ All codes in this directory are conceived as executable art installations.
 
 A Code, to be considered Python-Minimal, shall:
 
-1) Rely on a maximum of 45 lines of text.
+1) Rely on a maximum of 45 lines.
 2) Avoid any practical usage.
 3) Facilitate existential awakening/confuse the user.
 
