@@ -8,7 +8,7 @@ A Code, to be considered Python-Minimal, shall:
 3) Facilitate existential awakening/confuse the user.
 
 # Blog
-I talked about this project on [Medium].
+I have discussed about this project on [Medium].
 
 # Contributions
 External contributions are well welcome.
